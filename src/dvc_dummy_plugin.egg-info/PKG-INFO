@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: dvc-dummy-plugin
+Version: 0.1
+Summary: Dummy DVC file system plugin
+Author: Jonathan Carter
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent

@@ -1,0 +1,4 @@
+outs:
+- md5: 8e267a4964210f0c8fb6869a114466d3
+  size: 10
+  path: tmp.txt

@@ -1,0 +1,9 @@
+setup.py
+dvc_dummy_plugin.egg-info/PKG-INFO
+dvc_dummy_plugin.egg-info/SOURCES.txt
+dvc_dummy_plugin.egg-info/dependency_links.txt
+dvc_dummy_plugin.egg-info/entry_points.txt
+dvc_dummy_plugin.egg-info/top_level.txt
+fs_plugin_examples/__init__.py
+fs_plugin_examples/dummy.py
+fs_plugin_examples/home.py
